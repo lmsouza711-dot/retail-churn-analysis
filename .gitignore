@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs e Editores
+.vscode/
+.idea/
+.agents/
+.gemini/
